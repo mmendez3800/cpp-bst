@@ -24,3 +24,6 @@ After cloning or forking the repository, you can run the program through the com
    - `g++ BST.cpp`
 3. Run the executable created
    - `./a.out`
+
+## Output
+![Output of CPP BST program](images/bst.jpg)
